@@ -1,0 +1,4 @@
+threshold:
+  freezing: 0
+  boiling: 100
+  fluctation: 0.5
